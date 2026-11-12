@@ -4,7 +4,7 @@ A collection of RTL designs and their testbenches.
 
 | Project | Description |
 | --- | --- |
-| [UART](uart/) | UART transmitter study |
+| [UART](uart/) | VHDL UART transmitter and receiver |
 
 Each block gets a top-level directory, such as `uart/`, `spi/`, or `fifo/`.
 Put synthesizable sources in `rtl/` and testbenches in `tb/`. Add `sim/` for
