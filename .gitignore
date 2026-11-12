@@ -1,0 +1,22 @@
+# Vivado and XSim generated output
+.Xil/
+xsim.dir/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.pb
+*.dcp
+*.bit
+*.wdb
+
+# Local simulation and build output
+**/sim/work/
+build/
+*.vcd
+*.fst
+work-obj*.cf
